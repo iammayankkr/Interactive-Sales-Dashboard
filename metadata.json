@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Sales Dashboard",
+  "description": "An interactive dashboard for visualizing transaction sales, patterns, product counts, and payment dynamics over time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
